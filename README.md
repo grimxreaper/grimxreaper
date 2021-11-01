@@ -22,10 +22,10 @@
   We have monthly meetups, play games online, and support each other through it all.  
   You can take a peek at our discord [here](https://www.google.com).  
 </p>
-  <br>   </br>
-
-  <br>   </br>
-             <p align="right"> Illustration by the talented Josan Gonzalez. </p>
+  <br></br>
+  <br></br>
+<p align="right"> Illustration by the talented Josan Gonzalez. </p>
+             
 <h1 align="left">
   
   <img src="https://github-readme-stats.vercel.app/api?username=grimxreaper&count_private=true&show_icons=true&theme=material-palenight" alt="github stats" width="45%" align="right"/>
