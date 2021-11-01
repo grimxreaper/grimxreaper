@@ -11,13 +11,13 @@
         height="385"
          width="500"
          alt="an illustration of a computer on standby in a cubicle, pastel colored in purple and pinks"/>  
+
   <p>    
            
   I'm a self-taught software engineer who strives to be more
   creative, present, and who desires to build magical things with
   incredible individuals.  
 
-  
 
   P.S. While you're here and if you'd like more women in tech as friends, 
   check out the community I built!
@@ -28,6 +28,8 @@
 </p>
   <br></br>
 </head>  
+  <br></br>
+
 <h1 align="left">
   
   <img src="https://github-readme-stats.vercel.app/api?username=grimxreaper&count_private=true&show_icons=true&theme=material-palenight" alt="github stats" width="45%" align="right"/>
