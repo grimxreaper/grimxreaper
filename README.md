@@ -26,7 +26,7 @@
   We have monthly meetups, play games online, and support each other through it all.  
   You can take a peek at our discord [here](https://www.google.com).  
 </p>
-  <br></br>
+
 </head>  
   <br></br>
 
