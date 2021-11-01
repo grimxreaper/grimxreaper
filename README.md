@@ -7,6 +7,7 @@
         height="385"
          width="500"
          alt="a girl floating in space writing code on her laptop"/>  
+         <p align="right"> Illustration by the talented Josan Gonzalez. </p>
 
   <p>    
   I'm a self-taught software engineer who strives to be more
