@@ -27,8 +27,6 @@
   You can take a peek at our discord [here](https://www.google.com).  
 </p>
   <br></br>
-  <br></br>
-<p align="right"> Illustration by the talented Josan Gonzalez. </p>
 </head>  
 <h1 align="left">
   
@@ -42,7 +40,10 @@
          alt="a pastel colored scenery of purple and pink, snow falling gently on traintracks in the city"/>        
          
  <p align="center"> <a href="https://twitter.com/icycodes" target="blank"><img src="https://img.shields.io/twitter/follow/icycodes?logo=twitter&style=for-the-badge" alt="twitter follow button" /></a> </p>
-<p align="center"> Have a <em> lovely </em> holiday season! ❄️ </p>
+  <p align="center"> Have a <em> lovely </em> holiday season! ❄️ </p> 
+
+ Illustration by the talented Josan Gonzalez.
+
 </h5>
          
 </html>
