@@ -16,7 +16,7 @@
   
 
   P.S. While you're here and if you'd like more women in tech as friends, 
-  check out the community I build!
+  check out the community I built!
   
   We are ✨**CYBER COVEN**✨  
   We have monthly meetups, play games online, and support each other through it all.  
