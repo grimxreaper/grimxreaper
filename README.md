@@ -24,7 +24,7 @@
   
   We are ✨**CYBER COVEN**✨  
   We have monthly meetups, play games online, and support each other through it all.  
-  You can take a peek at our discord [here](https://www.google.com).  
+  You can take a peek at our discord [here](https://discord.gg/W7CQZveQhf).  
 </p>
 
 </head>  
