@@ -22,9 +22,8 @@
   We have monthly meetups, play games online, and support each other through it all.  
   You can take a peek at our discord [here](https://www.google.com).  
 </p>
+  <br>   </br>
 
-  <br>   </br>
-  <br>   </br>
   <br>   </br>
              <p align="right"> Illustration by the talented Josan Gonzalez. </p>
 <h1 align="left">
