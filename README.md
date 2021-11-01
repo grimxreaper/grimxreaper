@@ -7,6 +7,7 @@
         height="385"
          width="500"
          alt="a girl floating in space writing code on her laptop"/>  
+
   <p>    
   I'm a self-taught software engineer who strives to be more
   creative, present, and who desires to build magical things with
@@ -25,6 +26,7 @@
   <br>   </br>
   <br>   </br>
   <br>   </br>
+             <p align="right"> Illustration by the talented [Josan Gonzalez](https://citadel9.com/). </p>
 <h1 align="left">
   
   <img src="https://github-readme-stats.vercel.app/api?username=grimxreaper&count_private=true&show_icons=true&theme=material-palenight" alt="github stats" width="45%" align="right"/>
