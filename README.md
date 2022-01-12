@@ -23,8 +23,8 @@
   check out the community I built!
   
   We are ✨**CYBER COVEN**✨  
-  We have monthly meetups, play games online, and support each other through it all.  
-  You can take a peek at our discord [here](https://discord.gg/W7CQZveQhf).  
+  We have monthly meetups, play games online, and support each other during the highs and the lows of working in tech.  
+ 
 </p>
 
 </head>  
