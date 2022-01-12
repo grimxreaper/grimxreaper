@@ -7,7 +7,7 @@
          height="45"
          width="45" />  </h1>
          <h3 align="left"> Hey! I'm Zahra 👩🏻‍💻</h3>
-           <img align="right" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/18e3d4d8-b51c-4e89-b0de-69d915643cd2/ezgif-6-fda79a0b31c0.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20211101%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211101T005934Z&X-Amz-Expires=86400&X-Amz-Signature=0b4f86a31bb056f01772a2f41da5ded731f739fea0d070a1ab4a42df885b2542&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22ezgif-6-fda79a0b31c0.gif%22" 
+           <img align="right" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/18e3d4d8-b51c-4e89-b0de-69d915643cd2/ezgif-6-fda79a0b31c0.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220112%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220112T221528Z&X-Amz-Expires=86400&X-Amz-Signature=f3e4b6fcad2975130955b9efcdf68feb6c5ce8dc5745b4d5369ea5b3ec640c9f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22ezgif-6-fda79a0b31c0.gif%22&x-id=GetObject" 
         height="385"
          width="500"
          alt="an illustration of a computer on standby in a cubicle, pastel colored in purple and pinks"/>  
