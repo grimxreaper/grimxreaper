@@ -42,7 +42,7 @@
          alt="a pastel colored scenery of purple and pink, snow falling gently on traintracks in the city"/>        
          
  <p align="center"> <a href="https://twitter.com/icycodes" target="blank"><img src="https://img.shields.io/twitter/follow/icycodes?logo=twitter&style=for-the-badge" alt="twitter follow button" /></a> </p>
-  <p align="center"> Have a <em> lovely </em> holiday season! ❄️ </p> 
+  <p align="center"> Have a <em> lovely </em> winter season! ❄️ </p> 
 
  Illustration by the talented Josan Gonzalez.
 
